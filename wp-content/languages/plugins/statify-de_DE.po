@@ -1,0 +1,98 @@
+# Translation of Plugins - Statify - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Statify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-28 09:47:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Statify - Stable (latest release)\n"
+
+#: inc/class-statify-backend.php:42 views/widget-back.php:43
+msgid "Donate"
+msgstr "Spenden"
+
+#: views/widget-back.php:42
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/class-statify-backend.php:43 views/widget-back.php:44
+msgid "Support"
+msgstr "Unterstützung"
+
+#: views/widget-back.php:36
+msgid "Skip tracking for referrers listed in the comment blacklist"
+msgstr "Ignoriere Tracking für Referrer, die in der Kommentar-Blacklist hinterlegt sind"
+
+#. #-#-#-#-#  statify-code.pot (Statify 1.6.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#: views/widget-back.php:42
+msgid "https://wordpress.org/plugins/statify/"
+msgstr "https://de.wordpress.org/plugins/statify/"
+
+#. Author of the plugin/theme
+msgid "pluginkollektiv"
+msgstr "pluginkollektiv"
+
+#. Description of the plugin/theme
+msgid "Compact, easy-to-use and privacy-compliant stats plugin for WordPress."
+msgstr "Kompakte, anwendungsfreundliche und datenschutzkonforme Statistik für WordPress."
+
+#. Plugin Name of the plugin/theme
+msgid "Statify"
+msgstr "Statify"
+
+#: views/widget-front.php:63
+msgid "Top referers"
+msgstr "Beste Quellen"
+
+#: views/widget-front.php:37
+msgid "Top targets"
+msgstr "Beste Inhalte"
+
+#: views/widget-front.php:19
+msgid "No data available."
+msgstr "Keine Daten verfügbar."
+
+#: views/widget-back.php:32
+msgid "recommended if caching is in use"
+msgstr "empfohlen bei aktivem Caching"
+
+#: views/widget-back.php:31
+msgid "Page tracking via JavaScript"
+msgstr "Seitenzählung via JavaScript"
+
+#: views/widget-back.php:27
+msgid "Entries in top lists only for today"
+msgstr "Einträge in der Bestenliste nur von heute"
+
+#: views/widget-back.php:23
+msgid "Number of entries in top lists"
+msgstr "Anzahl der Einträge in der Bestenliste"
+
+#: views/widget-back.php:18
+msgid "Period of data saving"
+msgstr "Zeitraum der Aufbewahrung"
+
+#: views/widget-back.php:17
+msgid "days"
+msgstr "Tage"
+
+#: inc/class-statify-dashboard.php:144
+msgid "Pageviews"
+msgstr "Aufrufe"
+
+#: inc/class-statify-dashboard.php:143
+msgid "Pageview"
+msgstr "Aufruf"
+
+#: inc/class-statify-backend.php:76
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Author URI of the plugin/theme
+msgid "https://pluginkollektiv.org"
+msgstr "https://pluginkollektiv.org"
