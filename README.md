@@ -1,4 +1,4 @@
-# Project Title
+# Project
 
 Im Rahmen des Kultur-Hackathons CodingDaVinci Westfalen/Ruhrgebiet 2019 werden im fculture-Projekt die vom Bikini Art Museum bereitgestellten Quizfragen auf der Website http://fculture.de in einen gesellschaftskritischen Kontext gebracht. Das Titelbild der Website verwendet ein Bild des vom Marta Herford bereitgestellten Datensatzes.
 
