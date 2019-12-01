@@ -640,6 +640,12 @@ function twentyseventeen_unique_id( $prefix = '' ) {
 	return $prefix . (string) ++$id_counter;
 }
 
+function wpc_custom_front_sections( $num_sections ) {
+	return 6;
+}
+
+add_filter( 'twentyseventeen_front_page_sections', 'wpc_custom_front_sections');
+
 /**
  * Implement the Custom Header feature.
  */
